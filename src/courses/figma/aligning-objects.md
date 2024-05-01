@@ -33,6 +33,7 @@ The platform includes keyboard shortcuts for distribution tasks:
 
 - **Distribute Vertically:** `Ctrl + Alt/Option + V`
 - **Distribute Horizontally:** `Ctrl + Alt/Option + H`
+  i
 
 ## Tidy Up
 
